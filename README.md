@@ -9,6 +9,7 @@ Hello!
 * CSS
 * JavaScript
 
-## 20200806
-* How to use Git/GitHub
-* HTML and Internet
+## 20200807
+* CSS/JavaScript
+* DOM Programming
+* Java
